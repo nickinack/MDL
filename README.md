@@ -1,2 +1,3 @@
-# MDL
-MDL Assignments, codes and experimentation
+# MDL2-2
+
+The assignments, the code, the experimentation.
