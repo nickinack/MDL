@@ -1,0 +1,68 @@
+Current state: {'direction': 'C', 'material': 2, 'arrow': 0, 'state': 'r', 'health': 100, 'index': 89}
+Best action: mn
+Next state: {'direction': 'N', 'material': 2, 'arrow': 0, 'state': 'r', 'health': 100, 'index': 209}
+-----------
+Current state: {'direction': 'N', 'material': 2, 'arrow': 0, 'state': 'r', 'health': 100, 'index': 209}
+Best action: um
+Next state: {'direction': 'N', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 204}
+-----------
+Current state: {'direction': 'N', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 204}
+Best action: um
+Next state: {'direction': 'N', 'material': 2, 'arrow': 1, 'state': 'd', 'health': 100, 'index': 214}
+-----------
+Current state: {'direction': 'N', 'material': 2, 'arrow': 1, 'state': 'd', 'health': 100, 'index': 214}
+Best action: um
+Next state: {'direction': 'N', 'material': 2, 'arrow': 3, 'state': 'd', 'health': 100, 'index': 234}
+-----------
+Current state: {'direction': 'N', 'material': 2, 'arrow': 3, 'state': 'd', 'health': 100, 'index': 234}
+Best action: mc
+Next state: {'direction': 'E', 'material': 2, 'arrow': 3, 'state': 'd', 'health': 100, 'index': 474}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 3, 'state': 'd', 'health': 100, 'index': 474}
+Best action: sa
+Next state: {'direction': 'E', 'material': 2, 'arrow': 2, 'state': 'd', 'health': 75, 'index': 463}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 2, 'state': 'd', 'health': 75, 'index': 463}
+Best action: sa
+Next state: {'direction': 'E', 'material': 2, 'arrow': 1, 'state': 'd', 'health': 75, 'index': 453}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 1, 'state': 'd', 'health': 75, 'index': 453}
+Best action: sa
+Next state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 442}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 442}
+Best action: sb
+Next state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'r', 'health': 50, 'index': 447}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'r', 'health': 50, 'index': 447}
+Best action: sb
+Next state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 75, 'index': 443}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 75, 'index': 443}
+Best action: sb
+Next state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 75, 'index': 443}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 75, 'index': 443}
+Best action: sb
+Next state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 441}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 441}
+Best action: sb
+Next state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 441}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 441}
+Best action: sb
+Next state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'r', 'health': 25, 'index': 446}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'r', 'health': 25, 'index': 446}
+Best action: sb
+Next state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 442}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 442}
+Best action: sb
+Next state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 442}
+-----------
+Current state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 442}
+Best action: sb
+Next state: {'direction': 'E', 'material': 2, 'arrow': 0, 'state': 'r', 'health': 0, 'index': 445}
+-----------

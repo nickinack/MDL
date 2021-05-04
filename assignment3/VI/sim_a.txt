@@ -1,0 +1,108 @@
+Current state: {'direction': 'W', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 484}
+Best action: mc
+Next state: {'direction': 'C', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 4}
+-----------
+Current state: {'direction': 'C', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 4}
+Best action: me
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 100, 'index': 369}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 100, 'index': 369}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 100, 'index': 364}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 100, 'index': 369}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 100, 'index': 369}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 50, 'index': 367}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 50, 'index': 367}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 75, 'index': 363}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 75, 'index': 363}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 361}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 361}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 361}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 361}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 361}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 361}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 361}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 25, 'index': 361}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 25, 'index': 366}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 25, 'index': 366}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 25, 'index': 366}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 25, 'index': 366}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 25, 'index': 366}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 25, 'index': 366}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 362}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 362}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 362}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 362}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 362}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 362}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 362}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 362}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 362}
+-----------
+Current state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'd', 'health': 50, 'index': 362}
+Best action: sb
+Next state: {'direction': 'E', 'material': 0, 'arrow': 0, 'state': 'r', 'health': 0, 'index': 365}
+-----------
